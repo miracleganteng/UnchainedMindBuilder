@@ -1,0 +1,8 @@
+{
+  "name": "UnchainedMindBuilder",
+  "short_name": "UMB",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#0ff"
+}
